@@ -1,5 +1,5 @@
 # Projects
 
-* Ensmebl
+* Ensembl
 * Custom websites
 * Carehive
