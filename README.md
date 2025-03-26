@@ -5,7 +5,7 @@
 * [Custom Websites](https://tj-construction.uk)
 * [Ensembl](https://myensembl.com) (WIP)
 
-### Open Source
+# Open Source
 
 * [Odin's Spear](https://github.com/Jordan-Prescott/odins-spear)
 * [Peep Show API](https://thedobby.club/docs)
