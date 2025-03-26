@@ -1,8 +1,8 @@
 # Projects
 
-* Cashew - App to give digital receipt for all purchases physical and online.
-* [Blog Writing](https://medium.com/@Jordan-Prescott)
-* [Custom Websites](https://tj-construction.uk)
+* Cashew - App to give digital receipt for all purchases physical and online. (FAILED)
+* [Blog Writing](https://medium.com/@Jordan-Prescott) (FAILED)
+* [Custom Websites](https://tj-construction.uk) (WIN)
 * [Ensembl](https://myensembl.com) (WIP)
 
 # Open Source
