@@ -14,3 +14,4 @@
 * [Digital Resources](https://docs.jordan-prescott.com/digital-resources) 
 * [Broadworks OCIP SOAP](https://github.com/Jordan-Prescott/broadworks-ocip-soap)
 * [Thor's Hammer](https://github.com/Jordan-Prescott/thors-hammer) (WIP)
+* [Chronicl.md](https://github.com/minimal-mind/chronicl) (WIP)
